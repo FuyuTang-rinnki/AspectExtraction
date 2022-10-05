@@ -1,3 +1,3 @@
-Assignment 3 & 4 for 11747 - Neural Networks for NLP
+Assignment 3 & 4 - Aspect extraction
 
 Authors: Yifan Song, Jiameng Du, Fuyu Tang
