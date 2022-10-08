@@ -2,9 +2,7 @@ Assignment 3 & 4 - Aspect extraction
 
 Authors: Yifan Song, Jiameng Du, Fuyu Tang
 
-# A4
-
-For BERT-PT:
+# For BERT-PT:
 
 ## Environment:
 
@@ -48,7 +46,7 @@ bash script/run_ft.sh
 agian to see the f1-score, please set TrainConfig.save_best_model = False in script/config.py  
 Our best_models can be found at [best models](https://drive.google.com/drive/folders/1gdFyDsIn7nzRoMScmNLMkagq4nJI51qd?usp=sharing)
 
-For DE-CNN:
+# For DE-CNN:
 
 ## Environment:
 
