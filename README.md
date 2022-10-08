@@ -2,6 +2,14 @@ Assignment 3 & 4 - Aspect extraction
 
 Authors: Yifan Song, Jiameng Du, Fuyu Tang
 
+AE - Extracting all aspects of the target entity
+```bash
+"The hard disk is too noisy."  --> hard disk
+"The  retina display is great!" --> retina display
+"I like the food, but the service was bad." --> food, service
+ ```
+
+
 # For BERT-PT:
 
 ## Environment:
